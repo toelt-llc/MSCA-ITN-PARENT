@@ -13,7 +13,7 @@ We recommend completing the 7 steps as it uses code examples in parallel with th
 > The 7 steps of Machine Learning. 
 
 
-## To Neural Networks 
+## Neural Networks Guides
  - [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
  - [Tensorflow Basic Image Classification](https://www.tensorflow.org/tutorials/keras/classification)
  - [**Videos**: Statquest NN series](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
