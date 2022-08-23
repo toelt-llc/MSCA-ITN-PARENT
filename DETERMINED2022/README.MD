@@ -2,6 +2,8 @@
 
 This folder contains the material for the lectures held at the DETERMINED 2022 summer school at the University of Ljubljana (financed by the European Project [PARENT](https://parenth2020.com)) held end of August 2022. Each folder contains material as presentations, code for the hands-on sessions and further reading material that students can consult even after the school has finished.
 
+In the folder [Reading Material on Machine Learning](https://github.com/toelt-llc/MSCA-ITN-PARENT/tree/main/DETERMINED2022/Reading%20Material%20on%20Machine%20Learning) Arnaud Gucciardi has compiled a list of resources that he, as student, has used during his studies of Machine Learning and that will be useful to students that begins their work on machine learning. More material will be also added with time.
+
 # Introduction to Neural Networks
 
 This is mostly a thoretical lecture with some hands-on with online tools. No Python coding is strictly required. Nonetheless, I implemented a demo in Python of the Gradient Descent in one-dimension to try. It is useful to see how this optimizer (that by the way is not even available any more out of the box in TensorFlow Keras) works.
