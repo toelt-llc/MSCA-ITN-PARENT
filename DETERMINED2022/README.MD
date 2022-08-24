@@ -22,6 +22,8 @@ In this lecture we will look at what is model validation and how to deal with un
 
 # Introduction to Python and scikit-learn
 
+In this lecture we will look at various topics as important tools, the role of python in scientific reproducibility, etc. Two hands-on demos are available that show how to perform an easy classification and linear regression with scikit-learn.
+
 - [Classification of digit images with scikit-learn](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Classification%20of%20digits%20with%20scikit-learn.ipynb)
 
 - [Linear regression with scikit-learn](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Linear%20Regression%20with%20scikit-learn.ipynb)
