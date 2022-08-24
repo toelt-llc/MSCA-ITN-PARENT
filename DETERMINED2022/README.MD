@@ -22,6 +22,10 @@ In this lecture we will look at what is model validation and how to deal with un
 
 # Introduction to Python and scikit-learn
 
+- [Classification of digit images with scikit-learn](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Classification%20of%20digits%20with%20scikit-learn.ipynb)
+
+- [Linear regression with scikit-learn](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Linear%20Regression%20with%20scikit-learn.ipynb)
+
 # Introduction to Neural Networks
 
 This is mostly a thoretical lecture with some hands-on with online tools. No Python coding is strictly required. Nonetheless, I implemented a demo in Python of the Gradient Descent in one-dimension to try. It is useful to see how this optimizer (that by the way is not even available any more out of the box in TensorFlow Keras) works.
