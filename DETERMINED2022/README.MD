@@ -8,6 +8,12 @@ In the folder [Reading Material on Machine Learning](https://github.com/toelt-ll
 
 The goal of the lectures is **not** to make students experts. This is not possible in such a short time frame. The goal is to make fundamentals in how to do research in machine learning clear. What are the best practices, what are the challenges, and so on. We hope that after this school, the students will be aware of the difficulties linked to use machine learning corretly, and thus will be careful when setting up their research project that have a machine learning component.
 
+# Hands-on Jupyter notebooks
+
+All the hands-on examples have been developed in [Jupyter notebooks](https://jupyter.org). For your convenience you will find below links to each one. They will open in [Google Colab](https://colab.research.google.com), an online environment where you can try the notebook without having to install anything on your laptop or desktop. 
+
+To run the notebooks you will need a google account. You can get one for free [HERE](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp).
+
 # Introduction to Model Validation and Unbalanced Datasets
 
 In this lecture we will look at what is model validation and how to deal with unbalanced datasets (and what they are). A small programming experiment is available to see what happens when you use the Hold-out approach (see lecture) multiple times with different random number generator seeds.
