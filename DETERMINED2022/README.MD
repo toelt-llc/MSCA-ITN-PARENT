@@ -10,6 +10,10 @@ The goal of the lectures is **not** to make students experts. This is not possib
 
 # Introduction to Model Validation and Unbalanced Datasets
 
+In this lecture we will look at what is model validation and how to deal with unbalanced datasets (and what they are). A small programming experiment is available to see what happens when you use the Hold-out approach (see lecture) multiple times with different random number generator seeds.
+
+- [Effect of splitting the dataset multiple times Hands-on Code](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Introduction%20to%20model%20validation%20and%20unbalanced%20datasets/.ipynb_checkpoints/Metrics_Distributions_due_to_Datasetsplit-checkpoint.ipynb)
+
 # Introduction to Python and scikit-learn
 
 # Introduction to Neural Networks
