@@ -20,6 +20,8 @@ In this lecture we will look at what is model validation and how to deal with un
 
 - [Effect of splitting the dataset multiple times Hands-on Code](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Introduction%20to%20model%20validation%20and%20unbalanced%20datasets/.ipynb_checkpoints/Metrics_Distributions_due_to_Datasetsplit-checkpoint.ipynb)
 
+- [Example of how to implement hold-out with multiple splits in scikit-learn](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Introduction%20to%20model%20validation%20and%20unbalanced%20datasets/code/.ipynb_checkpoints/Hold-out%20example%20with%20scikit-learn-checkpoint.ipynb)
+
 # Introduction to Python and scikit-learn
 
 In this lecture we will look at various topics as important tools, the role of python in scientific reproducibility, etc. Two hands-on demos are available that show how to perform an easy classification and linear regression with scikit-learn.
