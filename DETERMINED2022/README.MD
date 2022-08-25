@@ -28,7 +28,7 @@ In this lecture we will look at various topics as important tools, the role of p
 
 - [Linear regression with scikit-learn](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Linear%20Regression%20with%20scikit-learn.ipynb)
 
--[Python fundamentals and notes on numpy](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Python%20Fundamentals.ipynb)
+- [Python fundamentals and notes on numpy](https://colab.research.google.com/github/toelt-llc/MSCA-ITN-PARENT/blob/main/DETERMINED2022/Python%20and%20scikit-learn/code/Python%20Fundamentals.ipynb)
 
 # Introduction to Neural Networks
 
