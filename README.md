@@ -1,7 +1,7 @@
 # MSCA-ITN-PARENT
 This repository contains the material of the summer schools of the EU project PARENT.
 
-## DETERMINED 2022 Summer School 
+## DETERMINED 2022 Summer School (Ljubljana, Slovenia)
 
 
 ![DETERMINED GROUP PHOTO](DETERMINED2022/images/determinedgroup.jpeg)
