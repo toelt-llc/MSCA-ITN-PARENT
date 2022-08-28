@@ -1,5 +1,7 @@
 # DETERMINED 2022 
 
+![DETERMINED GROUP PHOTO](images/determinedgroup.jpeg)
+
 This folder contains the material for the lectures held at the DETERMINED 2022 summer school at the University of Ljubljana (financed by the European Project [PARENT](https://parenth2020.com)) held end of August 2022. Each folder contains material as presentations, code for the hands-on sessions and further reading material that students can consult even after the school has finished.
 
 In the folder [Reading Material on Machine Learning](https://github.com/toelt-llc/MSCA-ITN-PARENT/tree/main/DETERMINED2022/Reading%20Material%20on%20Machine%20Learning) Arnaud Gucciardi has compiled a list of resources that he, as student, has used during his studies of Machine Learning and that will be useful to students that begins their work on machine learning. More material will be also added with time.
